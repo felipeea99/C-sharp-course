@@ -1,0 +1,17 @@
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\bin\Debug\net6.0-windows\C-Sharp-Course-Desktop.exe
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\bin\Debug\net6.0-windows\C-Sharp-Course-Desktop.deps.json
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\bin\Debug\net6.0-windows\C-Sharp-Course-Desktop.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\bin\Debug\net6.0-windows\C-Sharp-Course-Desktop.dll
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\bin\Debug\net6.0-windows\C-Sharp-Course-Desktop.pdb
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C_Sharp_Course_Desktop.Form1.resources
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.dll
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\refint\C-Sharp-Course-Desktop.dll
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.pdb
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\C-Sharp-Course-Desktop.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\C-sharp-course\C-Sharp-Course-Desktop\C-Sharp-Course-Desktop\obj\Debug\net6.0-windows\ref\C-Sharp-Course-Desktop.dll
